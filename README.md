@@ -1,4 +1,4 @@
-# Splendor
+# Splendor_Game
 Python程式設計與應用期末專案(合作專案)：璀璨寶石桌遊單人版
 
 ## 使用技術
